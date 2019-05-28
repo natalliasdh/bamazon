@@ -1,0 +1,61 @@
+[
+    {
+        "product_name": "Chocolate bar",
+        "department_name": "Groceries",
+        "price": 2,
+        "stock_quantity":3
+    },
+    {
+        "product_name": "Sour Cream",
+        "department_name": "Groceries",
+        "price": 5,
+        "stock_quantity":7
+    },
+    {
+        "product_name": "Bread",
+        "department_name": "Groceries",
+        "price": 1,
+        "stock_quantity":5
+    },
+
+
+    {
+        "product_name": "Dress",
+        "department_name": "Clothes",
+        "price": 45,
+        "stock_quantity":2
+    },
+    {
+        "product_name": "Polo Shirt",
+        "department_name": "Clothes",
+        "price": 30,
+        "stock_quantity":1
+    },
+    {
+        "product_name": "Fitbit",
+        "department_name": "Electronics",
+        "price": 150,
+        "stock_quantity": 3
+    },
+
+    {
+        "product_name": "Lipstick",
+        "department_name": "Beauty",
+        "price": 7,
+        "stock_quantity":12
+    },
+    {
+        "product_name": "Earrings",
+        "department_name": "Jewelry",
+        "price": 15,
+        "stock_quantity":4
+    },
+    {
+        "product_name": "Bracelet",
+        "department_name": "Jewelry",
+        "price": 20,
+        "stock_quantity": 2
+    }
+
+
+]

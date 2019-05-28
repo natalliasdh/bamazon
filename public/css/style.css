@@ -1,0 +1,195 @@
+body {
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url("doodles.png");
+    background-repeat: repeat;
+   
+}
+
+.container {
+    background-color: white;
+    padding: 0px;
+  
+
+}
+h1 {
+    background-color:yellow;
+    font-weight:bold;
+font-size: 35px;
+padding: 5px;
+padding-left:10px;
+margin:0px;
+}
+
+h2 {
+    font-size: 18px; 
+    width:190px;
+    text-align: center;
+    background-color: rgb(80, 80, 80);
+    color:white;
+    padding: 3px;
+    margin:0px;
+    font-weight:bold;
+    
+}
+
+h3 {
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size:16px;
+    color: gray;
+    margin:0px;
+    
+}
+
+h3 a {
+    text-decoration: underline;
+  
+}
+
+select {
+padding:10px;
+
+    width:350px;
+    border: 2px solid grey;
+    margin:10px;
+    margin-left: 0px;
+    outline: none;
+}
+
+select:focus {
+    border: 2px solid yellow;
+    outline: none;
+
+}
+
+input[type=text] {
+    padding:8px;
+    width:50px;
+    border: 2px solid grey;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+input[type=text]:focus {
+
+    outline: none;  
+    width:50px;
+}
+
+button, button.inv {
+ padding: 7px;
+ font-size: 12px;
+ font-weight: bold;
+ background-color: yellow;
+    border: 2px solid yellow;
+    outline: none;  
+}
+
+button:focus, button:hover {
+    outline: none;
+    border: 2px solid grey;
+}
+
+
+
+
+
+#allprod {
+    padding:15px;
+
+}
+
+
+#select {
+    display:inline;
+    float: left;
+}
+
+#q {
+    display: inline;
+    
+}
+#button {
+    padding-top:20px;
+    clear:both;
+}
+
+#message {
+
+    padding:10px;
+    color:red;
+
+    padding: 10px;
+  
+}
+
+table {
+    margin-top:10px;
+  width:90%;
+
+}
+
+td,th {
+
+    
+
+    padding:10px;
+}
+
+
+
+#results input, #resultsinput:focus {
+text-align: unset;
+    width:300px;
+    margin-left: 0;
+   
+}
+
+
+
+
+#results button {
+
+  margin-top:15px;
+}
+
+#results label {
+    margin-top:15px;
+}
+
+#results span {
+  color:red;
+ margin-top:20px;
+}
+
+#results input {
+    margin-left: 0;
+    margin-top:0px;
+   
+}
+
+#allprod2 {
+  
+   padding-top: 15px;
+   padding-bottom: 15px;
+   border-bottom: 2px solid gray;
+}
+
+#results {
+padding-top: 15px;}
+
+
+
+#entry h2 {
+    margin: 20px auto;
+    padding: 10px;
+
+}
+
+#entry a {
+    text-decoration: none;
+    color:white;
+}
